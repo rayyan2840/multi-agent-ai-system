@@ -55,4 +55,4 @@ cd multi-agent-ai-system
 
 ## 📝 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is for **educational purposes only. No license applied.**
