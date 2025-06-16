@@ -48,4 +48,11 @@ To demonstrate how a **planner-based multi-agent AI system** can:
 git clone https://github.com/rayyan2840/multi-agent-ai-system.git
 cd multi-agent-ai-system
 
+## 🤝 Contributors
 
+- **Rayyan Shaikh** - *Developer*  
+  [GitHub](https://github.com/your-github-rayyan2840) | [LinkedIn](www.linkedin.com/in/rayyan-shaikh-351300364)
+
+## 📝 License
+
+This project is for **educational purposes only. No license applied.**
