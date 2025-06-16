@@ -51,8 +51,8 @@ cd multi-agent-ai-system
 ## 🤝 Contributors
 
 - **Rayyan Shaikh** - *Developer*  
-  [GitHub](https://github.com/your-github-rayyan2840) | [LinkedIn](www.linkedin.com/in/rayyan-shaikh-351300364)
+  [GitHub](https://github.com/rayyan2840) | [LinkedIn](https://www.linkedin.com/in/rayyan-shaikh-351300364)
 
 ## 📝 License
 
-This project is for **educational purposes only. No license applied.**
+This project is licensed under the [MIT License](LICENSE).
